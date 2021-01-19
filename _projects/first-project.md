@@ -1,6 +1,6 @@
 ---
 title: first project
 gallery:
-  - image: "Balaton3-120x71.jpg"
+  - image: /attachments/projects.first-project/Balaton3-120x71.jpg
 ---
 first project

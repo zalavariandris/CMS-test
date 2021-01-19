@@ -1,9 +1,9 @@
 ---
 title: Cats
 gallery:
-  - url: cat.jpg
-  - url: kittie.jpg
-  - url: sun.jpg
-  - url: with_mouse.jpg
+  - url: /attachments/projects/cats/cat.jpg
+  - url: /attachments/projects/cats/kittie.jpg
+  - url: /attachments/projects/cats/sun.jpg
+  - url: /attachments/projects/cats/with_mouse.jpg
 ---
 a few cute kats
